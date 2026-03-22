@@ -1,6 +1,6 @@
-package Array;
+package BinarySearch;
 
-public class FindPeakElement{
+public class FindPeakElement {
       public int findPeakElement(int[] nums) {
         int low=0;
         int high=nums.length-1;
@@ -15,3 +15,4 @@ public class FindPeakElement{
         return low;
     }
 }
+
