@@ -7,11 +7,18 @@ All solutions are implemented in **Java ☕**.
 | Problem | Description |
 |--------|-------------|
 | Contains Duplicate | Check if any element appears more than once in the array |
-| Find Peak Element | Find an index where the element is greater than its neighbors |
+| Find Numbers With Even Number of Digits | Count how many numbers in the array have an even number of digits |
 | Missing Number | Find the missing number from range `0` to `n` |
 | Move Zeroes | Move all zeros to the end while maintaining order of non-zero elements |
 | Plus One | Add one to a number represented as an array of digits |
 | Two Sum | Find two numbers in an array that add up to a specific target value |
+
+
+## Binary Search
+| Problem | Description |
+|--------|-------------|
+| Find Peak Element | Find an index where the element is greater than its neighbors |
+| Sqrt(x) | Find the integer square root (floor value) of a non-negative number |
 
 
 ## Bit Manipulation Problems
@@ -24,6 +31,7 @@ All solutions are implemented in **Java ☕**.
 | Problem | Description |
 |--------|-------------|
 | Add Two Integers | Return the sum of two integers without using built-in operators (in some variations) |
+| Factorial Trailing Zeroes | Count the number of trailing zeros in n! |
 | Happy Number | A number that becomes 1 when we repeatedly add the squares of its digits |
 | Palindrome Number | A number that reads the same forward and backward |
 | Perfect Number | A number that is equal to the sum of its positive divisors (excluding itself) |
